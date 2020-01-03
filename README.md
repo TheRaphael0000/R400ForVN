@@ -4,8 +4,7 @@
 
 ```bash
 git clone https://github.com/TheRaphael0000/R400ForVN.git
-cd R400ForVN
-pip install -e . -U
+pip install -e R400ForVN -U
 ```
 
 # Run
